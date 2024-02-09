@@ -1,0 +1,29 @@
+#title{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    color: #40A2E3;
+    font-size: 35pt;
+}
+
+body{
+    background-color: #FFF6E9;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.primary-blue{
+    background-color: #40A2E3 !important; 
+}
+
+.secondary-blue{
+    background-color: #BBE2EC;
+}
+
+.text-box{
+    width: 700px;
+    text-align: center;
+}
